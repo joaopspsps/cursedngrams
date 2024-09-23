@@ -1,13 +1,16 @@
-#!/usr/bin/python3
-from sys import stdin as O,stdout as I,argv as _
-O_o,o_O=__import__,vars
-uwu=owo=1-0
-BAD=int;C,B,T=BAD(_[-uwu--owo--uwu]),_[-uwu:owo:-uwu][::-owo],O.read().split()
-XXX,X_,EVIL,w_w,V_V=range,chr,exec,tuple,len;maybe,mayhaps,v_v=""," ","'";Y=61;manycommas=maybe.join
-for X in XXX(0X61,BAD(1E2+2E1)+0b11):EVIL(f"{X_(X)}{X_(Y)}{v_v}{X_(X)}{v_v}")
-Q_Q=w_w(o_O(O_o(manycommas((i,t,e,r,t,o,o,l,s))))[manycommas((p,e,r,m,u,t,a,t,i,o,n,s))](*(*(*(T*uwu,owo*C),),),))
-o_o=o_O(O_o(manycommas((r,a,n,d,o,m))))[manycommas((c,h,o,i,c,e))]
-x_x=IndexError
-while not not not not not not not not not not not not...:
-    try:I.write(mayhaps.join(B)+mayhaps);I.flush();p_p=V_V(B);B=o_o([q_q for q_q in Q_Q if q_q[:p_p]==w_w(B)])[p_p::uwu//owo//uwu]
-    except x_x:B=o_o(Q_Q)[p_p::uwu//owo//uwu]
+#!/usr/bin/env -S env env env env env env env env env env env python3
+BAD,EVIL,XXX,X_X,X_,_X,L_L=int,exec,range,"'",chr,((
+               61            )     ),len
+for X in XXX(0X61,BAD(1E2+2E1)+0b11):EVIL(
+'' """
+       """''f"""
+{X_(X)}"""f"""{X_(_X)}"""f"""{X_X}"""f"""{X_(X)}"""f"""{X_X}
+       """f''"""
+""" ''
+);uh=huh=1**0|0*1--0&1^0--1*0|0**1
+O_o,o_O,p_=__import__,vars,""''''''"".join;mm=lambda _q:p_(_q)[::huh|huh&huh^-huh];_=O_o(mm((s,y,s)));I=o_O(_)[mm((t,u,o,d,t,s))];O=o_O(_)[mm((n,i,d,t,s))];_=o_O(O_o(mm((s,y,s))))[mm((v,g,r,a))];__,___=O.read().split(),BAD(_[-uh--huh--uh])--huh;__=[__[_:_+___] for _ in XXX(L_L(__)-___--huh)];____=_[max(-L_L(_)--uh--huh,-___--huh):];O_O=o_O(O_o(mm((m,o,d,n,a,r))))[mm((e,c,i,o,h,c))];x_x=IndexError
+while not...and...is...or...:
+    I.write(____[uh-huh]+""" """);I.flush();l_l=L_L(____)
+    try:       _____=O_O([_ for _ in __ if ____==_[:l_l]])
+    except x_x:_____=O_O(__);
+    ____=____[uh:]+_____[l_l:-huh]+[_____[-uh]]
