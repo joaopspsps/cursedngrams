@@ -3,6 +3,8 @@
 > (Python 🐍 × NLP 👅) \^ Chaos 😈 = More Chaos ✨ + Python Interpreter
 > Tears™ 😱💧
 
+![](demo.gif)
+
 ## Usage
 
 ``` sh
