@@ -30,8 +30,8 @@ q_q                                          =                 IndexError#``#´�
 p_p                     =                                      KeyboardInterrupt  #`
 _l_l_l_                                 =                      o_O(O_o(mm((m,o,d,n,a,r))))[mm((e,c,i,o,h,c))]
 __                           =                                 O_O.read().split() #`
-___                                 =                          BAD(NO[-uh--huh--huh]);...if(___>uh)else(___:=--uh--huh)
-____                             =                             NO[(uhhuh:=_m_m_(-_X_X_X_X_(NO)--uh--huh,-___--huh)):]if(NO[--uh--huh:])else[[_l_l_l_(__),uhhuh:=uh-huh][-huh-uh]]
+___                                 =                          BAD(NO[uh<<huh>>uh]);...if(___>uh>-huh)else(___:=uh<<huh)
+____                             =                             NO[(uhhuh:=_m_m_(-_X_X_X_X_(NO)--uh--huh,-___--huh)):]if(NO[-(uh^~-huh):])else[[_l_l_l_(__),uhhuh:=uh%huh][~~~uh]]
 ___                           =                                ___=___=___=___=___=___=___=___=___=___=___=___
 __                                    =                        [[__[X:X+___] for X in XXX(_X_X_X_X_(__)-___--huh)]][uh^huh]
 _l_l_l_                   =                                    _l_l_l_=_l_l_l_=_l_l_l_=_l_l_l_=_l_l_l_=_l_l_l_
@@ -41,7 +41,7 @@ NO                                               =             NO=NO=NO=NO=NO=NO
 YES             =                                              YES=YES=YES=YES=YES=YES=YES=YES=YES=YES=YES=YES
 mm                                                     =       mm=mm=mm=mm=mm=mm=mm=mm=mm=mm=mm=mm=mm=mm=mm=mm
 O_o,o_O     =                                                  [o_O,O_o][uh-huh:uh--huh:huh][::---uh--huh-huh]
-if(...)and(_                                               :=  NO[uh--huh:uhhuh]):_l__l_(*(*(*(*(*(_),),),),),)
+if(...)and(_                                               :=  NO[-~uh&~huh:uhhuh]):_l__l_(*(*(*(*(*(_),),),),),)
 #´ \\_//"""f"""\\_// //^\\ \\_// //^\\ \\_// //^\\"""f"""//^\\ `#´´#``#´´#``#´´#``#´
 #` //^\\"""f"""//^\\ \\_// //^\\ \\_// //^\\ \\_//"""f"""\\_// ´#``#´´#``#´´#``#´´#`
 #´ \\_//"""f"""\\_// //^\\ \\_// //^\\ \\_// //^\\"""f"""//^\\ `#´´#``#´´#``#´´#``#´
